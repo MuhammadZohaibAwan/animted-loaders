@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+    
+}
+
+
+body{
+     background-image: linear-gradient(to right, #4628B0 , #AB4BCD);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+}
+
+
+.mainContainer {
+display: flex;
+flex-wrap: wrap;
+width: 680px;
+height: 540px;
+background-color:black;
+
+}
+
+
+.far-color{
+    height: 180px;
+    width: 170px;
+    
+
+    
+}
+
+.one{
+ background-color: #31BE9C;
+ 
+    
+}
+
+
+.two{
+ background-color: #37485E;
+    
+}
+
+.three{
+ background-color: #ED9F21;
+    
+}
+
+
+.four{
+ background-color:#9C50B5;
+    
+}
+
+
+
+.five{
+ background-color: #4A94DA;
+    
+}
+
+
+.six{
+ background-color: #E14C3F;
+    
+}
+
+.seven{
+ background-color: #38CF72;
+    
+}
+
+
+.eight{
+ background-color: #2F3D50;
+    
+}
+
+
+
+.nine{
+ background-color: #ECC822;
+    
+}
+
+.ten{
+ background-color: #8F37AC;
+    
+}
+
+
+.eleven{
+ background-color: #3C7CB8;
+    
+}
+
+
+
+
+.twilight{
+ background-color: #E14C3F;
+    
+}
+
+
+img{
+    padding: 60px;
+}
+
+
+.six  > img {
+    padding-top: 80px;
+}
+
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 2px #FFFFFF;
+    width: 150px;
+    background: transparent;
+    color: white;
+
+}
+
+i{
+    font-size: 15px;
+}
+
+.oneBtn{
+        margin-left: 170px;
+        margin-top: 30px;
+}
+
+p{
+    margin-left: 200px;
+    color: white;
+}
+
+a{
+    color: white;
+}
